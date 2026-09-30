@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "demo-film",
+    "title": "Demo Film",
+    "year": 2026,
+    "duration": "1h 30",
+    "genre": "Démonstration",
+    "description": "Film fictif utilisé uniquement pour tester le catalogue de notre plateforme.",
+    "poster": "https://placehold.co/600x900/111111/ffffff?text=Demo+Film",
+    "video": ""
+  }
+]
